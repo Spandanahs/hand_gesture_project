@@ -27,4 +27,4 @@ Future Enhancements
 - Volume control
 - Brightness control
 - Gesture-based scrolling
-Note: AI tools were used for guidance, debugging, and documentation support during the development of this project.
+-Note: AI tools were used for guidance, debugging, and documentation support during the development of this project.
